@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/youtube_react_practice/static/css/main.7064deb2.css",
+    "main.js": "/youtube_react_practice/static/js/main.637af1ac.js",
+    "index.html": "/youtube_react_practice/index.html",
+    "main.7064deb2.css.map": "/youtube_react_practice/static/css/main.7064deb2.css.map",
+    "main.637af1ac.js.map": "/youtube_react_practice/static/js/main.637af1ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.637af1ac.js"
+  ]
+}
